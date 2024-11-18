@@ -1,0 +1,9 @@
+1:Book:A Game of Thrones:9.99:1:1:John123:2023-08-20
+2:Book:A Clash of Kings:9.99:1:1:Smith123:2023-04-22
+3:Book:The Outsiders:10.90:0:0:0:0
+4:Audio:UTOPIA:8.20:0:0:0:0
+5:Movie:Barbie:25.00:0:0:0:0
+6:Audio:If You Tell:10.90:0:0:0:0
+7:Book:Stay Gold:5.50:0:0:0:0
+8:Movie:Oppenheimer:25.00:0:0:0:0
+9:Movie:Spy Kids:10.50:0:0:0:0
